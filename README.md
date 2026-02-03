@@ -1,3 +1,7 @@
+<img width="1512" height="982" alt="Screenshot 2026-02-02 at 7 45 46 PM" src="https://github.com/user-attachments/assets/b163c3bb-ccd0-4935-8f58-a7a65c6e69b9" />
+![IMG_1891](https://github.com/user-attachments/assets/b9c82c26-b710-46e7-9bca-553df82cff31)
+![IMG_1892](https://github.com/user-attachments/assets/0beb67b9-ff4e-4416-9476-9ab8abf37081)
+<img width="1512" height="982" alt="6f44a3e22a760bf52887e14e99bc3e8030b3c7618dd663313fc8e120cd84e2d8" src="https://github.com/user-attachments/assets/33eff3d3-2cd9-400b-8912-1ce4f7182be3" />
 # Linux Network & Security Lab (Ubuntu VM)
 
 ## 📌 Overview
@@ -91,3 +95,7 @@ Screenshots from the lab session are included to demonstrate commands, outputs, 
 
 **Always learning, practicing, and documenting real-world skills.**# linux-network-security-lab
 Hands-on Ubuntu VM lab: networking diagnostics (ping/dig/curl/traceroute), packet capture (tcpdump), firewall hardening (UFW), and SSH service validation.
+<img width="1512" height="982" alt="Screenshot 2026-02-02 at 7 46 44 PM" src="https://github.com/user-attachments/assets/1f918a16-8267-439a-87ba-48db0881e5d5" />
+<img width="1512" height="982" alt="Screenshot 2026-02-02 at 7 47 03 PM" src="https://github.com/user-attachments/assets/b58c3248-f1f8-45f4-a61b-b16c23a601f1" />
+<img width="1512" height="982" alt="Screenshot 2026-02-02 at 7 47 16 PM" src="https://github.com/user-attachments/assets/82f21d2b-ef73-497d-bbe4-420b485b2754" />
+<img width="1512" height="982" alt="Screenshot 2026-02-02 at 7 47 33 PM" src="https://github.com/user-attachments/assets/cdd1139b-01a7-4717-bdb9-be3a4cf3dba5" />
